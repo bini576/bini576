@@ -15,45 +15,45 @@
 
 ---
 
-## ðŸ§  About Me
+## 🧠 About Me
 
 ```python
 class BiniyamAdemasu:
     def __init__(self):
         self.name        = "Biniyam Ademasu Afework"
         self.role        = ["Cybersecurity Analyst", "Security Engineer", "Full-Stack Developer"]
-        self.education   = "B.Sc. Cyber Security â€” Bahir Dar University (GPA: 3.43/4.00)"
-        self.location    = "Ethiopia ðŸ‡ªðŸ‡¹"
+        self.education   = "B.Sc. Cyber Security — Bahir Dar University (GPA: 3.43/4.00)"
+        self.location    = "Ethiopia 🇪🇹"
         self.languages   = ["Amharic (Native)", "English (Fluent)"]
         self.email       = "admasubiniyam96@gmail.com"
 
     def current_focus(self):
         return [
-            "ðŸ” Building secure, scalable cybersecurity platforms",
-            "ðŸ¤– Applying ML to network intrusion detection",
-            "ðŸŒ Developing full-stack security-aware applications",
-            "ðŸ“š Continuously expanding security expertise",
+            "🔐 Building secure, scalable cybersecurity platforms",
+            "🤖 Applying ML to network intrusion detection",
+            "🌐 Developing full-stack security-aware applications",
+            "📚 Continuously expanding security expertise",
         ]
 
     def fun_fact(self):
-        return "I think like an attacker to build better defenses ðŸ›¡ï¸"
+        return "I think like an attacker to build better defenses 🛡️"
 
 me = BiniyamAdemasu()
 ```
 
 ---
 
-## ðŸš€ Currently Working On
+## 🚀 Currently Working On
 
-- ðŸ”¥ **Next-Gen Crowdsourced Penetration Testing Platform** â€” A modular platform connecting organizations with trusted security researchers (8 core services: VDP, PTaaS, Bug Bounty, AI Red Teaming, and more)
-- ðŸ¤– Improving my **AI-Based Intrusion Detection System** with advanced ML models
-- ðŸŒ Building my **personal portfolio website**
+- 🔥 **Next-Gen Crowdsourced Penetration Testing Platform** — A modular platform connecting organizations with trusted security researchers (8 core services: VDP, PTaaS, Bug Bounty, AI Red Teaming, and more)
+- 🤖 Improving my **AI-Based Intrusion Detection System** with advanced ML models
+- 🌐 Building my **personal portfolio website**
 
 ---
 
-## ðŸ› ï¸ Skills & Technologies
+## 🛠️ Skills & Technologies
 
-### ðŸ’» Programming Languages
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -62,7 +62,7 @@ me = BiniyamAdemasu()
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ðŸ” Cybersecurity
+### 🔐 Cybersecurity
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -70,7 +70,7 @@ me = BiniyamAdemasu()
 ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Gophish](https://img.shields.io/badge/Gophish-00D4FF?style=for-the-badge&logo=go&logoColor=white)
 
-### âš™ï¸ DevOps & Tools
+### ⚙️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -79,24 +79,24 @@ me = BiniyamAdemasu()
 
 ---
 
-## ðŸ“Œ Featured Projects
+## 📌 Featured Projects
 
 <div align="center">
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| ðŸ”¥ [**Crowdsourced Pen Testing Platform**](https://github.com/bini576) | Graduation project â€” Modular security platform with VDP, PTaaS, Bug Bounty & AI Red Teaming | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2CA5E0?style=flat&logo=docker&logoColor=white) |
-| ðŸ¤– [**AI-Based IDS**](https://github.com/bini576/AI-based-intrusion-detection-System) | ML model classifying network traffic as normal or malicious | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
-| ðŸŒ [**Secure Campus Network**](https://github.com/bini576/Secure-compuse-network-design) | Enterprise network design for Jinka PTC using Cisco Packet Tracer | ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white) |
-| ðŸŽ£ [**Phishing Awareness Demo**](https://github.com/bini576/phishing-awaireness-project) | Educational demo of phishing techniques to raise security awareness | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| ðŸ”‘ [**RSA & AES Cryptography**](https://github.com/bini576/AsymmetricEncryption) | File encryption/decryption using RSA & AES algorithms | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| ðŸª– [**Soldier Management System**](https://github.com/bini576/Soldier-Management-System) | C++ data structure app for managing soldier records | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
+| 🔥 [**Crowdsourced Pen Testing Platform**](https://github.com/bini576) | Graduation project — Modular security platform with VDP, PTaaS, Bug Bounty & AI Red Teaming | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2CA5E0?style=flat&logo=docker&logoColor=white) |
+| 🤖 [**AI-Based IDS**](https://github.com/bini576/AI-based-intrusion-detection-System) | ML model classifying network traffic as normal or malicious | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
+| 🌐 [**Secure Campus Network**](https://github.com/bini576/Secure-compuse-network-design) | Enterprise network design for Jinka PTC using Cisco Packet Tracer | ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white) |
+| 🎣 [**Phishing Awareness Demo**](https://github.com/bini576/phishing-awaireness-project) | Educational demo of phishing techniques to raise security awareness | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| 🔑 [**RSA & AES Cryptography**](https://github.com/bini576/AsymmetricEncryption) | File encryption/decryption using RSA & AES algorithms | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| 🪖 [**Soldier Management System**](https://github.com/bini576/Soldier-Management-System) | C++ data structure app for managing soldier records | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
 
 </div>
 
 ---
 
-## ðŸ“Š GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -113,19 +113,19 @@ me = BiniyamAdemasu()
 
 ---
 
-## ðŸ… Certifications
+## 🏅 Certifications
 
-- ðŸ† **Mastercard Cybersecurity Job Simulation** â€” Forage (2025)
-- ðŸ† **Tata Cybersecurity Analyst Job Simulation** â€” Forage (2025)
-- ðŸ† **Employability & Job Readiness + Design Thinking** â€” Bahir Dar Institute of Technology (2026)
+- 🏆 **Mastercard Cybersecurity Job Simulation** — Forage (2025)
+- 🏆 **Tata Cybersecurity Analyst Job Simulation** — Forage (2025)
+- 🏆 **Employability & Job Readiness + Design Thinking** — Bahir Dar Institute of Technology (2026)
 
 ---
 
-## ðŸ¤ Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
-ðŸ’¼ Open to **Cybersecurity**, **Security Engineering**, and **Full-Stack Development** opportunities!
+💼 Open to **Cybersecurity**, **Security Engineering**, and **Full-Stack Development** opportunities!
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/biniyam-ademasu)
 [![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admasubiniyam96@gmail.com)
