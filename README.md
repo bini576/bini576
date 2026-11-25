@@ -22,7 +22,7 @@ class BiniyamAdemasu:
     def __init__(self):
         self.name        = "Biniyam Ademasu Afework"
         self.role        = ["Cybersecurity Analyst", "Security Engineer", "Full-Stack Developer"]
-        self.education   = "B.Sc. Cyber Security — Bahir Dar University (GPA: 3.43/4.00)"
+        self.education   = "B.Sc. Cyber Security — Bahir Dar University"
         self.location    = "Ethiopia 🇪🇹"
         self.languages   = ["Amharic (Native)", "English (Fluent)"]
         self.email       = "admasubiniyam96@gmail.com"
