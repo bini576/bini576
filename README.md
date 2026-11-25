@@ -45,7 +45,7 @@ me = BiniyamAdemasu()
 
 ## 🚀 Currently Working On
 
-- 🔥 **Next-Gen Crowdsourced Penetration Testing Platform** — A modular platform connecting organizations with trusted security researchers (8 core services: VDP, PTaaS, Bug Bounty, AI Red Teaming, and more)
+- 🔥 [**Next-Gen Crowdsourced Penetration Testing Platform (AntCrowd)**](https://github.com/bini576/antcrowd101) ([Live Demo](https://bini576.github.io/antcrowd101/demo/)) — A modular platform connecting organizations with trusted security researchers (8 core services: VDP, PTaaS, Bug Bounty, AI Red Teaming, and more)
 - 🤖 Improving my **AI-Based Intrusion Detection System** with advanced ML models
 - 🌐 Building my **personal portfolio website**
 
